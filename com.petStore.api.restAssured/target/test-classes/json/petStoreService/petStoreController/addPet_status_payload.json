@@ -1,0 +1,8 @@
+{
+  "name": ":name",
+  "photoUrls": [
+    "https://petstore.swagger.io/#/pet/name/:name"
+    
+  ],
+  "status": ":status"
+} 

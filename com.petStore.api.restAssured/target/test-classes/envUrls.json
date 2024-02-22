@@ -1,0 +1,11 @@
+{
+	"test" : {
+		"petStore" : "https://petstore.swagger.io/v2"
+	},
+	"dev" : {
+		"petStore" : "https://petstore.swagger.io/v2"		
+	},
+	"prod" : {
+		"petStore" : "https://petstore.swagger.io/v2"		
+	}
+}
