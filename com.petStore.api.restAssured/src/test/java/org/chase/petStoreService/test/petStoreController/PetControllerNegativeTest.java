@@ -42,4 +42,8 @@ public class PetControllerNegativeTest extends BaseTest {
 		Assert.assertEquals(resp.statusCode(), 404);
 	}
 
+	@Test
+	public void demo_negTest() {
+		"Demo Negtive test"
+	}
 }
