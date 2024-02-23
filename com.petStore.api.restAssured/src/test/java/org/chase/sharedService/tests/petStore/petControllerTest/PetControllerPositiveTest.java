@@ -135,5 +135,10 @@ public class PetControllerPositiveTest extends APIUtils {
 		String payload = Utilities.getJSON("petStoreService\\petStoreController\\addPet_status_payload.json");
 		System.out.println(payload);
 	}
+	
+	@Test
+	public void temp_kamran() {
+		System.out.println("Github demo 1");
+	}
 
 }
